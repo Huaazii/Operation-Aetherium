@@ -42,6 +42,14 @@ Heavy's shield has an authoritative duration and damage-reduction state. The loc
 
 [Gameplay](gameplay.md#当前兵种) · [State ownership](architecture.md#state-ownership)
 
+### Rocket: RPG
+
+![RPG equip, rocket launch, explosion feedback and return to the rifle](../media/playtest/rocket-launch.gif)
+
+Rocket equips an RPG and fires a networked projectile. Authoritative simulation resolves the impact; the first-person weapon preserves the firing action before the consumed special slot switches back to the rifle.
+
+[Networked projectiles](cases/networked-combat.md) · [Equipment lifecycle](cases/presentation-lifecycle.md)
+
 ## Base class change
 
 ![Medic selection, confirmation and continued gameplay](../media/playtest/base-class-change.gif)

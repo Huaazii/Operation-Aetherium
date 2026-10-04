@@ -42,6 +42,14 @@ Serum 将阶段化投掷与治疗友方、伤害敌方的区域规则结合。�
 
 [兵种玩法](gameplay.md#当前兵种) · [状态所有权](architecture.zh-CN.md#状态所有权)
 
+### Rocket：火箭筒
+
+![装备 RPG、发射火箭、爆炸反馈与切回步枪](../media/playtest/rocket-launch.gif)
+
+火箭兵装备 RPG 并发射网络投射物。权威仿真处理命中结果，第一人称武器保留发射动作，再将已消耗的特殊装备槽位切回步枪。
+
+[网络投射物](cases/networked-combat.md) · [装备生命周期](cases/presentation-lifecycle.md)
+
 ## 局内换兵种
 
 ![选择 Medic、确认更换与继续对局](../media/playtest/base-class-change.gif)
