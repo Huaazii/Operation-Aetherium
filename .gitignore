@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.mp4
+*.log
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+validation/

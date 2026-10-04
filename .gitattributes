@@ -1,0 +1,8 @@
+* text=auto
+*.md text eol=lf
+*.cs text eol=lf
+*.json text eol=lf
+*.gif binary
+*.png binary
+*.jpg binary
+*.mp4 binary
